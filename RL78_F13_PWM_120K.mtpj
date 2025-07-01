@@ -3313,7 +3313,7 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
 </KeyExtGridLayout>
       <KeyDatasRowCount>80,32,219,0,0</KeyDatasRowCount>
       <KeyUserAddedColumnCount>0</KeyUserAddedColumnCount>
-      <KeyPinGridData0>Free,-,-,,</KeyPinGridData0>
+      <KeyPinGridData0>TRDIOD0,O,No,,</KeyPinGridData0>
       <KeyPinGridData1>Free,-,-,,</KeyPinGridData1>
       <KeyPinGridData2>Free,-,-,,</KeyPinGridData2>
       <KeyPinGridData3>Free,-,-,,</KeyPinGridData3>
@@ -3354,7 +3354,7 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       <KeyPinGridData38>Free,-,-,,</KeyPinGridData38>
       <KeyPinGridData39>Free,-,-,,</KeyPinGridData39>
       <KeyPinGridData40>TO01,O,-,,</KeyPinGridData40>
-      <KeyPinGridData41>Free,-,-,,</KeyPinGridData41>
+      <KeyPinGridData41>TRDIOB1,O,No,,</KeyPinGridData41>
       <KeyPinGridData42>RXD0,I,-,,</KeyPinGridData42>
       <KeyPinGridData43>TXD0,O,No,,</KeyPinGridData43>
       <KeyPinGridData44>Free,-,-,,</KeyPinGridData44>
@@ -3362,7 +3362,7 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       <KeyPinGridData46>Free,-,-,,</KeyPinGridData46>
       <KeyPinGridData47>Free,-,-,,</KeyPinGridData47>
       <KeyPinGridData48>Free,-,-,,</KeyPinGridData48>
-      <KeyPinGridData49>Free,-,-,,</KeyPinGridData49>
+      <KeyPinGridData49>TO06,O,No,,</KeyPinGridData49>
       <KeyPinGridData50>Free,-,-,,</KeyPinGridData50>
       <KeyPinGridData51>Free,-,-,,</KeyPinGridData51>
       <KeyPinGridData52>Free,-,-,,</KeyPinGridData52>
@@ -3392,7 +3392,7 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       <KeyPinGridData76>Free,-,-,,</KeyPinGridData76>
       <KeyPinGridData77>Free,-,-,,</KeyPinGridData77>
       <KeyPinGridData78>Free,-,-,,</KeyPinGridData78>
-      <KeyPinGridData79>Free,-,-,,</KeyPinGridData79>
+      <KeyPinGridData79>TO03,O,-,,</KeyPinGridData79>
       <KeyMacGridData0>Free,-,-,,</KeyMacGridData0>
       <KeyMacGridData1>Free,-,-,,</KeyMacGridData1>
       <KeyMacGridData2>Free,-,-,,</KeyMacGridData2>
@@ -3403,13 +3403,13 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       <KeyMacGridData7>EVSS0,-,-,,</KeyMacGridData7>
       <KeyMacGridData8>VDD,-,-,,</KeyMacGridData8>
       <KeyMacGridData9>EVDD0,-,-,,</KeyMacGridData9>
-      <KeyMacGridData10>Free,-,-,,</KeyMacGridData10>
+      <KeyMacGridData10>TRDIOD0,O,No,,</KeyMacGridData10>
       <KeyMacGridData11>Free,-,-,,</KeyMacGridData11>
       <KeyMacGridData12>Free,-,-,,</KeyMacGridData12>
       <KeyMacGridData13>Free,-,-,,</KeyMacGridData13>
       <KeyMacGridData14>Free,-,-,,</KeyMacGridData14>
       <KeyMacGridData15>Free,-,-,,</KeyMacGridData15>
-      <KeyMacGridData16>Free,-,-,,</KeyMacGridData16>
+      <KeyMacGridData16>TO03,O,-,,</KeyMacGridData16>
       <KeyMacGridData17>Free,-,-,,</KeyMacGridData17>
       <KeyMacGridData18>Free,-,-,,</KeyMacGridData18>
       <KeyMacGridData19>Free,-,-,,</KeyMacGridData19>
@@ -3427,7 +3427,7 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       <KeyMacGridData31>Free,-,-,,</KeyMacGridData31>
       <KeyMacGridData32>Free,-,-,,</KeyMacGridData32>
       <KeyMacGridData33>Free,-,-,,</KeyMacGridData33>
-      <KeyMacGridData34>Free,-,-,,</KeyMacGridData34>
+      <KeyMacGridData34>TO03,O,-,,</KeyMacGridData34>
       <KeyMacGridData35>Free,-,-,,</KeyMacGridData35>
       <KeyMacGridData36>Free,-,-,,</KeyMacGridData36>
       <KeyMacGridData37>Free,-,-,,</KeyMacGridData37>
@@ -3470,17 +3470,17 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       <KeyMacGridData74>Free,-,-,,</KeyMacGridData74>
       <KeyMacGridData75>Free,-,-,,</KeyMacGridData75>
       <KeyMacGridData76>Free,-,-,,</KeyMacGridData76>
-      <KeyMacGridData77>Free,-,-,,</KeyMacGridData77>
+      <KeyMacGridData77>TRDIOD0,O,No,,</KeyMacGridData77>
       <KeyMacGridData78>TO01,O,-,,</KeyMacGridData78>
-      <KeyMacGridData79>Free,-,-,,</KeyMacGridData79>
+      <KeyMacGridData79>TRDIOB1,O,No,,</KeyMacGridData79>
       <KeyMacGridData80>RXD0,I,-,,</KeyMacGridData80>
       <KeyMacGridData81>TXD0,O,No,,</KeyMacGridData81>
-      <KeyMacGridData82>Free,-,-,,</KeyMacGridData82>
+      <KeyMacGridData82>TO06,O,No,,</KeyMacGridData82>
       <KeyMacGridData83>Free,-,-,,</KeyMacGridData83>
       <KeyMacGridData84>Free,-,-,,</KeyMacGridData84>
       <KeyMacGridData85>Free,-,-,,</KeyMacGridData85>
-      <KeyMacGridData86>Free,-,-,,</KeyMacGridData86>
-      <KeyMacGridData87>Free,-,-,,</KeyMacGridData87>
+      <KeyMacGridData86>TO03,O,-,,</KeyMacGridData86>
+      <KeyMacGridData87>TRDIOD0,O,No,,</KeyMacGridData87>
       <KeyMacGridData88>Free,-,-,,</KeyMacGridData88>
       <KeyMacGridData89>Free,-,-,,</KeyMacGridData89>
       <KeyMacGridData90>Free,-,-,,</KeyMacGridData90>
@@ -3499,7 +3499,7 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       <KeyMacGridData103>Free,-,-,,</KeyMacGridData103>
       <KeyMacGridData104>Free,-,-,,</KeyMacGridData104>
       <KeyMacGridData105>Free,-,-,,</KeyMacGridData105>
-      <KeyMacGridData106>Free,-,-,,</KeyMacGridData106>
+      <KeyMacGridData106>TO03,O,-,,</KeyMacGridData106>
       <KeyMacGridData107>Free,-,-,,</KeyMacGridData107>
       <KeyMacGridData108>Free,-,-,,</KeyMacGridData108>
       <KeyMacGridData109>Free,-,-,,</KeyMacGridData109>
@@ -3528,61 +3528,61 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       <KeyMacGridData132>Free,-,-,,</KeyMacGridData132>
       <KeyMacGridData133>Free,-,-,,</KeyMacGridData133>
       <KeyMacGridData134>Free,-,-,,</KeyMacGridData134>
-      <KeyMacGridData135>Free,-,-,,</KeyMacGridData135>
+      <KeyMacGridData135>TO06,O,No,,</KeyMacGridData135>
       <KeyMacGridData136>Free,-,-,,</KeyMacGridData136>
-      <KeyMacGridData137>Free,-,-,,</KeyMacGridData137>
+      <KeyMacGridData137>TRDIOD0,O,No,,</KeyMacGridData137>
       <KeyMacGridData138>Free,-,-,,</KeyMacGridData138>
       <KeyMacGridData139>Free,-,-,,</KeyMacGridData139>
       <KeyMacGridData140>Free,-,-,,</KeyMacGridData140>
       <KeyMacGridData141>Free,-,-,,</KeyMacGridData141>
       <KeyMacGridData142>TO01,O,-,,</KeyMacGridData142>
-      <KeyMacGridData143>Free,-,-,,</KeyMacGridData143>
+      <KeyMacGridData143>TRDIOB1,O,No,,</KeyMacGridData143>
       <KeyMacGridData144>RXD0,I,-,,</KeyMacGridData144>
       <KeyMacGridData145>TXD0,O,No,,</KeyMacGridData145>
       <KeyMacGridData146>Free,-,-,,</KeyMacGridData146>
       <KeyMacGridData147>Free,-,-,,</KeyMacGridData147>
       <KeyMacGridData148>Free,-,-,,</KeyMacGridData148>
       <KeyMacGridData149>Free,-,-,,</KeyMacGridData149>
-      <KeyMacGridData150>Free,-,-,,</KeyMacGridData150>
+      <KeyMacGridData150>TO06,O,No,,</KeyMacGridData150>
       <KeyMacGridData151>Free,-,-,,</KeyMacGridData151>
-      <KeyMacGridData152>Free,-,-,,</KeyMacGridData152>
+      <KeyMacGridData152>TO03,O,-,,</KeyMacGridData152>
       <KeyMacGridData153>INTP0,I,-,,</KeyMacGridData153>
       <KeyMacGridData154>Free,-,-,,</KeyMacGridData154>
       <KeyMacGridData155>Free,-,-,,</KeyMacGridData155>
       <KeyMacGridData156>Free,-,-,,</KeyMacGridData156>
-      <KeyMacGridData157>Free,-,-,,</KeyMacGridData157>
+      <KeyMacGridData157>TRDIOD0,O,No,,</KeyMacGridData157>
       <KeyMacGridData158>Free,-,-,,</KeyMacGridData158>
       <KeyMacGridData159>P66,O,-,,</KeyMacGridData159>
       <KeyMacGridData160>P67,O,-,,</KeyMacGridData160>
       <KeyMacGridData161>Free,-,-,,</KeyMacGridData161>
       <KeyMacGridData162>TO01,O,-,,</KeyMacGridData162>
-      <KeyMacGridData163>Free,-,-,,</KeyMacGridData163>
+      <KeyMacGridData163>TRDIOB1,O,No,,</KeyMacGridData163>
       <KeyMacGridData164>RXD0,I,-,,</KeyMacGridData164>
       <KeyMacGridData165>TXD0,O,No,,</KeyMacGridData165>
-      <KeyMacGridData166>Free,-,-,,</KeyMacGridData166>
+      <KeyMacGridData166>TO06,O,No,,</KeyMacGridData166>
       <KeyMacGridData167>Free,-,-,,</KeyMacGridData167>
       <KeyMacGridData168>Free,-,-,,</KeyMacGridData168>
       <KeyMacGridData169>Free,-,-,,</KeyMacGridData169>
       <KeyMacGridData170>Free,-,-,,</KeyMacGridData170>
-      <KeyMacGridData171>Free,-,-,,</KeyMacGridData171>
-      <KeyMacGridData172>Free,-,-,,</KeyMacGridData172>
+      <KeyMacGridData171>TO03,O,-,,</KeyMacGridData171>
+      <KeyMacGridData172>TRDIOD0,O,No,,</KeyMacGridData172>
       <KeyMacGridData173>INTP0,I,-,,</KeyMacGridData173>
       <KeyMacGridData174>Free,-,-,,</KeyMacGridData174>
       <KeyMacGridData175>Free,-,-,,</KeyMacGridData175>
       <KeyMacGridData176>Free,-,-,,</KeyMacGridData176>
       <KeyMacGridData177>Free,-,-,,</KeyMacGridData177>
       <KeyMacGridData178>TO01,O,-,,</KeyMacGridData178>
-      <KeyMacGridData179>Free,-,-,,</KeyMacGridData179>
+      <KeyMacGridData179>TRDIOB1,O,No,,</KeyMacGridData179>
       <KeyMacGridData180>Free,-,-,,</KeyMacGridData180>
       <KeyMacGridData181>Free,-,-,,</KeyMacGridData181>
       <KeyMacGridData182>Free,-,-,,</KeyMacGridData182>
       <KeyMacGridData183>Free,-,-,,</KeyMacGridData183>
       <KeyMacGridData184>Free,-,-,,</KeyMacGridData184>
-      <KeyMacGridData185>Free,-,-,,</KeyMacGridData185>
-      <KeyMacGridData186>Free,-,-,,</KeyMacGridData186>
+      <KeyMacGridData185>TO03,O,-,,</KeyMacGridData185>
+      <KeyMacGridData186>TRDIOB1,O,No,,</KeyMacGridData186>
       <KeyMacGridData187>RXD0,I,-,,</KeyMacGridData187>
       <KeyMacGridData188>TXD0,O,No,,</KeyMacGridData188>
-      <KeyMacGridData189>Free,-,-,,</KeyMacGridData189>
+      <KeyMacGridData189>TO06,O,No,,</KeyMacGridData189>
       <KeyMacGridData190>Free,-,-,,</KeyMacGridData190>
       <KeyMacGridData191>Free,-,-,,</KeyMacGridData191>
       <KeyMacGridData192>Free,-,-,,</KeyMacGridData192>
@@ -3621,7 +3621,7 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       <KEY_SAVE_COLUMN_WIDTH_EXTERNAL_CHILD>0:92:92,1:78:78,2:77:77,3:400:400,4:61:61,5:40:40,6:50:50,7:160:160,8:210:210,9:198:198,10:210:210</KEY_SAVE_COLUMN_WIDTH_EXTERNAL_CHILD>
     </Instance>
     <Instance Guid="aacae7da-f24b-4709-81fa-541016e73641">
-      <KeyTopViewZoom>0.75</KeyTopViewZoom>
+      <KeyTopViewZoom>0.53</KeyTopViewZoom>
       <KeyTopViewAngle>0</KeyTopViewAngle>
       <KeyTopViewPartsCollapsed>True</KeyTopViewPartsCollapsed>
     </Instance>
@@ -4139,11 +4139,11 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
     &lt;INTP9Used Name="INTP9Used" Text="false" /&gt;
     &lt;INTP10Used Name="INTP10Used" Text="false" /&gt;
     &lt;TO02_PWM Name="TO02_PWM" Text="false" /&gt;
-    &lt;TO03_PWM Name="TO03_PWM" Text="false" /&gt;
+    &lt;TO03_PWM Name="TO03_PWM" Text="true" /&gt;
     &lt;Ch3UseTI03 Name="Ch3UseTI03" Text="false" /&gt;
     &lt;Ch4UseTI03 Name="Ch4UseTI03" Text="false" /&gt;
     &lt;Ch5UseTI03 Name="Ch5UseTI03" Text="false" /&gt;
-    &lt;INPT0USE0 Name="INPT0USE0" Text="false" /&gt;
+    &lt;INPT0USE0 Name="INPT0USE0" Text="true" /&gt;
     &lt;TRDINTP0LINK0 Name="TRDINTP0LINK0" Text="false" /&gt;
     &lt;TRDIOC1_PWM Name="TRDIOC1_PWM" Text="false" /&gt;
     &lt;TRDIOD1_PWM Name="TRDIOD1_PWM" Text="false" /&gt;
@@ -4202,6 +4202,9 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
     &lt;CHAIN_HEAD_H0 Name="CHAIN_HEAD_H0" Text="" /&gt;
     &lt;NO_CHAIN_H1 Name="NO_CHAIN_H1" Text="" /&gt;
     &lt;CHAIN_HEAD_H1 Name="CHAIN_HEAD_H1" Text="" /&gt;
+    &lt;TRD0_INTP0 Name="TRD0_INTP0" Value="0" /&gt;
+    &lt;TRD1_INTP0 Name="TRD1_INTP0" Value="0" /&gt;
+    &lt;INTP0USE1 Name="INTP0USE1" Text="true" /&gt;
   &lt;/VAR&gt;
   &lt;DIR&gt;
     &lt;PIN&gt;
@@ -4223,10 +4226,10 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
           &lt;P11 Name="P11/TI12/TO12/TRDIOB0/SI10/SDA10/RXD1/LRXD1/CRXD0" Chip="groupb,groupc1,groupc2" TTL="true" PITHL="true" Nch="true" AltFunc="" Point="I/O" /&gt;
           &lt;P12 Name="P12/TI11/TO11/TRDIOD0/INTP5/SO10/TXD1/SNZOUT3" Chip="groupb,groupc1,groupc2" Nch="true" AltFunc="" Point="I/O" /&gt;
           &lt;P13 Name="P13/TI04/TO04/TRDIOA0/TRDCLK0/SI01/SDA01/LTXD0" TTL="true" PITHL="true" Nch="true" AltFunc="" Point="I/O" /&gt;
-          &lt;P14 Name="P14/TI06/TO06/TRDIOC0/_SCK01/SCL01/LRXD0" TTL="true" PITHL="true" Nch="true" AltFunc="" Point="I/O" /&gt;
+          &lt;P14 Name="P14/TI06/TO06/TRDIOC0/_SCK01/SCL01/LRXD0" TTL="true" PITHL="true" Nch="true" AltFunc="TO06" Point="I/O" /&gt;
           &lt;P15 Name="P15/TI05/TO05/TRDIOA1/TRDIOA0/TRDCLK0/SO00/TXD0/TOOLTXD/RTC1HZ" Nch="true" AltFunc="TXD0" Point="I/O" /&gt;
           &lt;P16 Name="P16/TI02/TO02/TRDIOC1/SI00/SDA00/RXD0/TOOLRXD" TTL="true" PITHL="true" Nch="true" AltFunc="RXD0" Point="I/O" /&gt;
-          &lt;P17 Name="P17/TI00/TO00/TRDIOB1/_SCK00/SCL00/INTP3" TTL="true" PITHL="true" Nch="true" AltFunc="" Point="I/O" /&gt;
+          &lt;P17 Name="P17/TI00/TO00/TRDIOB1/_SCK00/SCL00/INTP3" TTL="true" PITHL="true" Nch="true" AltFunc="TRDIOB1_P17" Point="I/O" /&gt;
         &lt;/Port1&gt;
         &lt;Port3 Chip="RL78F13_48pin,RL78F13_64pin,RL78F13_80pin"&gt;
           &lt;P30 Name="P30/TI01/TO01/TRDIOD1/_SSI00/INTP2/SNZOUT0" TTL="true" PITHL="true" Pullup="true" AltFunc="TO01" Point="I/O" /&gt;
@@ -4296,12 +4299,12 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
           &lt;P97 Name="P97/ANI17" DIN="true" AltFunc="" Pullup="true" Point="I/O" /&gt;
         &lt;/Port9&gt;
         &lt;Port12 Chip="RL78F13_80pin"&gt;
-          &lt;P120 Name="P120/ANI25/TI07/TO07/TRDIOD0/SO01/INTP4" DIN="true" Nch="true" Pullup="true" AltFunc="" Point="I/O" /&gt;
+          &lt;P120 Name="P120/ANI25/TI07/TO07/TRDIOD0/SO01/INTP4" DIN="true" Nch="true" Pullup="true" AltFunc="TRDIOD0_P120" Point="I/O" /&gt;
           &lt;P121 Name="P121/X1" AltFunc="" Point="I" /&gt;
           &lt;P122 Name="P122/X2/EXCLK" AltFunc="" Point="I" /&gt;
           &lt;P123 Name="P123/XT1" AltFunc="" Point="I" /&gt;
           &lt;P124 Name="P124/XT2/EXCLKS" AltFunc="" Point="I" /&gt;
-          &lt;P125 Name="P125/ANI24/TI03/TO03/TRDIOB0/_SSI01/INTP1/SNZOUT1" DIN="true" TTL="true" PITHL="true" Pullup="true" AltFunc="" Point="I/O" /&gt;
+          &lt;P125 Name="P125/ANI24/TI03/TO03/TRDIOB0/_SSI01/INTP1/SNZOUT1" DIN="true" TTL="true" PITHL="true" Pullup="true" AltFunc="TO03" Point="I/O" /&gt;
           &lt;P126 Name="P126/TI01/TO01" Pullup="true" AltFunc="" Point="I/O" /&gt;
         &lt;/Port12&gt;
         &lt;Port13 Chip="RL78F13_48pin,RL78F13_64pin,RL78F13_80pin"&gt;
@@ -4606,20 +4609,20 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
             &lt;INTTM01H InUse="0" ISR="r_tau0_channel1_higher8bits_interrupt" /&gt;
           &lt;/Channel1&gt;
           &lt;Channel2&gt;
-            &lt;INTTM02 InUse="0" ISR="r_tau0_channel2_interrupt" /&gt;
+            &lt;INTTM02 InUse="1" ISR="r_tau0_channel2_interrupt" /&gt;
           &lt;/Channel2&gt;
           &lt;Channel3&gt;
-            &lt;INTTM03 InUse="0" ISR="r_tau0_channel3_interrupt" /&gt;
+            &lt;INTTM03 InUse="1" ISR="r_tau0_channel3_interrupt" /&gt;
             &lt;INTTM03H InUse="0" ISR="r_tau0_channel3_higher8bits_interrupt" /&gt;
           &lt;/Channel3&gt;
           &lt;Channel4&gt;
-            &lt;INTTM04 InUse="0" ISR="r_tau0_channel4_interrupt" /&gt;
+            &lt;INTTM04 InUse="1" ISR="r_tau0_channel4_interrupt" /&gt;
           &lt;/Channel4&gt;
           &lt;Channel5&gt;
             &lt;INTTM05 InUse="0" ISR="r_tau0_channel5_interrupt" /&gt;
           &lt;/Channel5&gt;
           &lt;Channel6&gt;
-            &lt;INTTM06 InUse="0" ISR="r_tau0_channel6_interrupt" /&gt;
+            &lt;INTTM06 InUse="1" ISR="r_tau0_channel6_interrupt" /&gt;
           &lt;/Channel6&gt;
           &lt;Channel7&gt;
             &lt;INTTM07 InUse="0" ISR="r_tau0_channel7_interrupt" /&gt;
@@ -4657,10 +4660,10 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
           &lt;INTTRJ0 InUse="1" ISR="r_tmr_rj0_interrupt" /&gt;
         &lt;/TMRJ0&gt;
         &lt;TMRD0&gt;
-          &lt;INTTRD0 InUse="0" ISR="r_tmr_rd0_interrupt" /&gt;
+          &lt;INTTRD0 InUse="1" ISR="r_tmr_rd0_interrupt" /&gt;
         &lt;/TMRD0&gt;
         &lt;TMRD1&gt;
-          &lt;INTTRD1 InUse="0" ISR="r_tmr_rd1_interrupt" /&gt;
+          &lt;INTTRD1 InUse="1" ISR="r_tmr_rd1_interrupt" /&gt;
         &lt;/TMRD1&gt;
       &lt;/TAU&gt;
       &lt;RTC&gt;
@@ -5079,8 +5082,8 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
               &lt;R_TAU0_Channel1_Get_PulseWidth UserName="R_TAU0_Channel1_Get_PulseWidth" LibName="R_TAU_Channeln_Get_PulseWidth" InUse="0" /&gt;
             &lt;/Channel1&gt;
             &lt;Channel2 InUse=""&gt;
-              &lt;R_TAU0_Channel2_Start UserName="R_TAU0_Channel2_Start" LibName="R_TAU_Channeln_Start" InUse="0" /&gt;
-              &lt;R_TAU0_Channel2_Stop UserName="R_TAU0_Channel2_Stop" LibName="R_TAU_Channeln_Stop" InUse="0" /&gt;
+              &lt;R_TAU0_Channel2_Start UserName="R_TAU0_Channel2_Start" LibName="R_TAU_Channeln_Start" InUse="1" /&gt;
+              &lt;R_TAU0_Channel2_Stop UserName="R_TAU0_Channel2_Stop" LibName="R_TAU_Channeln_Stop" InUse="1" /&gt;
               &lt;R_TAU0_Channel2_Get_PulseWidth Chip="RL78F13_80pin" UserName="R_TAU0_Channel2_Get_PulseWidth" LibName="R_TAU_Channeln_Get_PulseWidth" InUse="0" /&gt;
               &lt;R_TAU0_Channel2_Set_SoftwareTriggerOn UserName="R_TAU0_Channel2_Set_SoftwareTriggerOn" LibName="R_TAU_Channeln_Set_SoftwareTriggerOn" InUse="0" /&gt;
             &lt;/Channel2&gt;
@@ -5094,8 +5097,8 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
               &lt;R_TAU0_Channel3_Get_PulseWidth Chip="RL78F13_48pin,RL78F13_64pin,RL78F13_80pin" PIOR03="0" UserName="R_TAU0_Channel3_Get_PulseWidth" LibName="R_TAU_Channeln_Get_PulseWidth" InUse="0" /&gt;
             &lt;/Channel3&gt;
             &lt;Channel4 InUse=""&gt;
-              &lt;R_TAU0_Channel4_Start UserName="R_TAU0_Channel4_Start" LibName="R_TAU_Channeln_Start" InUse="0" /&gt;
-              &lt;R_TAU0_Channel4_Stop UserName="R_TAU0_Channel4_Stop" LibName="R_TAU_Channeln_Stop" InUse="0" /&gt;
+              &lt;R_TAU0_Channel4_Start UserName="R_TAU0_Channel4_Start" LibName="R_TAU_Channeln_Start" InUse="1" /&gt;
+              &lt;R_TAU0_Channel4_Stop UserName="R_TAU0_Channel4_Stop" LibName="R_TAU_Channeln_Stop" InUse="1" /&gt;
               &lt;R_TAU0_Channel4_Get_PulseWidth Chip="RL78F13_30pin,RL78F13_32pin,RL78F13_20pin,RL78F13_80pin" UserName="R_TAU0_Channel4_Get_PulseWidth" LibName="R_TAU_Channeln_Get_PulseWidth" InUse="0" /&gt;
               &lt;R_TAU0_Channel4_Set_SoftwareTriggerOn UserName="R_TAU0_Channel4_Set_SoftwareTriggerOn" LibName="R_TAU_Channeln_Set_SoftwareTriggerOn" InUse="0" /&gt;
             &lt;/Channel4&gt;
@@ -5158,18 +5161,18 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
             &lt;R_TMR_RJ0_Set_PowerOff UserName="R_TMR_RJ0_Set_PowerOff" LibName="R_TMR_RJn_Set_PowerOff" InUse="0" /&gt;
           &lt;/TMRJ0&gt;
           &lt;TMRD0 InUse=""&gt;
-            &lt;R_TMR_RD0_Create UserName="R_TMR_RD0_Create" LibName="R_TMR_RDn_Create" InUse="0" Init="2" InitMode="" /&gt;
-            &lt;R_TMR_RD0_Start UserName="R_TMR_RD0_Start" LibName="R_TMR_RDn_Start" InUse="0" /&gt;
-            &lt;R_TMR_RD0_Stop UserName="R_TMR_RD0_Stop" LibName="R_TMR_RDn_Stop" InUse="0" /&gt;
+            &lt;R_TMR_RD0_Create UserName="R_TMR_RD0_Create" LibName="R_TMR_RDn_Create" InUse="1" Init="2" InitMode="" /&gt;
+            &lt;R_TMR_RD0_Start UserName="R_TMR_RD0_Start" LibName="R_TMR_RDn_Start" InUse="1" /&gt;
+            &lt;R_TMR_RD0_Stop UserName="R_TMR_RD0_Stop" LibName="R_TMR_RDn_Stop" InUse="1" /&gt;
             &lt;R_TMR_RD0_Get_PulseWidth UserName="R_TMR_RD0_Get_PulseWidth" LibName="R_TMR_RDn_Get_PulseWidth" InUse="0" /&gt;
             &lt;R_TMR_RD0_Set_PowerOff UserName="R_TMR_RD0_Set_PowerOff" LibName="R_TMR_RDn_Set_PowerOff" InUse="0" /&gt;
             &lt;R_TMR_RD0_ForcedOutput_Start UserName="R_TMR_RD0_ForcedOutput_Start" LibName="R_TMR_RDn_ForcedOutput_Start" InUse="0" /&gt;
             &lt;R_TMR_RD0_ForcedOutput_Stop UserName="R_TMR_RD0_ForcedOutput_Stop" LibName="R_TMR_RDn_ForcedOutput_Stop" InUse="0" /&gt;
           &lt;/TMRD0&gt;
           &lt;TMRD1 InUse=""&gt;
-            &lt;R_TMR_RD1_Create UserName="R_TMR_RD1_Create" LibName="R_TMR_RDn_Create" InUse="0" Init="2" InitMode="" /&gt;
-            &lt;R_TMR_RD1_Start UserName="R_TMR_RD1_Start" LibName="R_TMR_RDn_Start" InUse="0" /&gt;
-            &lt;R_TMR_RD1_Stop UserName="R_TMR_RD1_Stop" LibName="R_TMR_RDn_Stop" InUse="0" /&gt;
+            &lt;R_TMR_RD1_Create UserName="R_TMR_RD1_Create" LibName="R_TMR_RDn_Create" InUse="1" Init="2" InitMode="" /&gt;
+            &lt;R_TMR_RD1_Start UserName="R_TMR_RD1_Start" LibName="R_TMR_RDn_Start" InUse="1" /&gt;
+            &lt;R_TMR_RD1_Stop UserName="R_TMR_RD1_Stop" LibName="R_TMR_RDn_Stop" InUse="1" /&gt;
             &lt;R_TMR_RD1_Get_PulseWidth UserName="R_TMR_RD1_Get_PulseWidth" LibName="R_TMR_RDn_Get_PulseWidth" InUse="0" /&gt;
             &lt;R_TMR_RD1_Set_PowerOff UserName="R_TMR_RD1_Set_PowerOff" LibName="R_TMR_RDn_Set_PowerOff" InUse="0" /&gt;
             &lt;R_TMR_RD1_ForcedOutput_Start UserName="R_TMR_RD1_ForcedOutput_Start" LibName="R_TMR_RDn_ForcedOutput_Start" InUse="0" /&gt;
@@ -5188,20 +5191,20 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
               &lt;r_tau0_channel1_higher8bits_interrupt UserName="r_tau0_channel1_higher8bits_interrupt" INTHandle="" LibName="r_tau_channeln_higher8bits_interrupt" InUse="0" /&gt;
             &lt;/Channel1&gt;
             &lt;Channel2 InUse=""&gt;
-              &lt;r_tau0_channel2_interrupt UserName="r_tau0_channel2_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="0" /&gt;
+              &lt;r_tau0_channel2_interrupt UserName="r_tau0_channel2_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="1" /&gt;
             &lt;/Channel2&gt;
             &lt;Channel3 InUse=""&gt;
-              &lt;r_tau0_channel3_interrupt UserName="r_tau0_channel3_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="0" /&gt;
+              &lt;r_tau0_channel3_interrupt UserName="r_tau0_channel3_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="1" /&gt;
               &lt;r_tau0_channel3_higher8bits_interrupt UserName="r_tau0_channel3_higher8bits_interrupt" INTHandle="" LibName="r_tau_channeln_higher8bits_interrupt" InUse="0" /&gt;
             &lt;/Channel3&gt;
             &lt;Channel4 InUse=""&gt;
-              &lt;r_tau0_channel4_interrupt UserName="r_tau0_channel4_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="0" /&gt;
+              &lt;r_tau0_channel4_interrupt UserName="r_tau0_channel4_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="1" /&gt;
             &lt;/Channel4&gt;
             &lt;Channel5 InUse=""&gt;
               &lt;r_tau0_channel5_interrupt UserName="r_tau0_channel5_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="0" /&gt;
             &lt;/Channel5&gt;
             &lt;Channel6 InUse=""&gt;
-              &lt;r_tau0_channel6_interrupt UserName="r_tau0_channel6_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="0" /&gt;
+              &lt;r_tau0_channel6_interrupt UserName="r_tau0_channel6_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="1" /&gt;
             &lt;/Channel6&gt;
             &lt;Channel7 InUse=""&gt;
               &lt;r_tau0_channel7_interrupt UserName="r_tau0_channel7_interrupt" INTHandle="" LibName="r_tau_channeln_interrupt" InUse="0" /&gt;
@@ -5230,11 +5233,11 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
           &lt;/TMRJ0&gt;
           &lt;TMRD0 InUse=""&gt;
             &lt;R_TMR_RD0_Create_UserInit UserName="R_TMR_RD0_Create_UserInit" LibName="R_TMR_RDn_Create_UserInit" InUse="0" /&gt;
-            &lt;r_tmr_rd0_interrupt UserName="r_tmr_rd0_interrupt" LibName="r_tmr_rdn_interrupt" INTHandle="" InUse="0" /&gt;
+            &lt;r_tmr_rd0_interrupt UserName="r_tmr_rd0_interrupt" LibName="r_tmr_rdn_interrupt" INTHandle="" InUse="1" /&gt;
           &lt;/TMRD0&gt;
           &lt;TMRD1 InUse=""&gt;
             &lt;R_TMR_RD1_Create_UserInit UserName="R_TMR_RD1_Create_UserInit" LibName="R_TMR_RDn_Create_UserInit" InUse="0" /&gt;
-            &lt;r_tmr_rd1_interrupt UserName="r_tmr_rd1_interrupt" LibName="r_tmr_rdn_interrupt" INTHandle="" InUse="0" /&gt;
+            &lt;r_tmr_rd1_interrupt UserName="r_tmr_rd1_interrupt" LibName="r_tmr_rdn_interrupt" INTHandle="" InUse="1" /&gt;
           &lt;/TMRD1&gt;
         &lt;/r_cg_timer_user.c&gt;
         &lt;r_cg_timer.h UserName="r_cg_timer.h" LibName=".h" InUse="1" /&gt;
@@ -5491,8 +5494,8 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       &lt;TAU0 Accelerate="No" MacroName="TAU" Channel="0" ChannelNum="0,1,2,3,4,5,6,7" SetFlag="True" TabEnable="True" /&gt;
       &lt;TAU1 Accelerate="No" Chip="groupb,groupc1,groupc2" MacroName="TAU" Channel="1" ChannelNum="0,1,2,3" SetFlag="False" TabEnable="True" /&gt;
       &lt;TMRJ0 SetFlag="True" MacroName="TMRJ" Channel="0" TabEnable="True" /&gt;
-      &lt;TMRD0 SetFlag="False" MacroName="TMRD" Channel="0" TabEnable="True" /&gt;
-      &lt;TMRD1 SetFlag="False" MacroName="TMRD" Channel="1" TabEnable="True" /&gt;
+      &lt;TMRD0 SetFlag="True" MacroName="TMRD" Channel="0" TabEnable="True" /&gt;
+      &lt;TMRD1 SetFlag="True" MacroName="TMRD" Channel="1" TabEnable="True" /&gt;
     &lt;/TAU&gt;
     &lt;WDT Prepared="true" SetFlag="False" HelpID="watchdogtimer" NeedRefresh="False"&gt;
       &lt;WDT SetFlag="False" MacroName="WDT" /&gt;
@@ -6591,7 +6594,7 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
         &lt;TAUPWMMaster0&gt;
           &lt;PWMMaster0&gt;
             &lt;setting name="Value_scale" value="1" /&gt;
-            &lt;setting name="PWM_cycle" value="8.333" /&gt;
+            &lt;setting name="PWM_cycle" value="19.157" /&gt;
             &lt;setting name="Master_interrupt_priority" value="3" /&gt;
             &lt;setting name="Master_interrupt" value="used" /&gt;
           &lt;/PWMMaster0&gt;
@@ -6681,23 +6684,111 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
         &lt;/TAUInterval1&gt;
       &lt;/Channel1&gt;
       &lt;Channel2&gt;
-        &lt;setting name="ChannelFunction" value="0" /&gt;
+        &lt;setting name="ChannelFunction" value="7" /&gt;
         &lt;setting name="Pinselection" value="-1" /&gt;
+        &lt;TAUPWMMaster2&gt;
+          &lt;PWMMaster2&gt;
+            &lt;setting name="Value_scale" value="1" /&gt;
+            &lt;setting name="PWM_cycle" value="18.727" /&gt;
+            &lt;setting name="Master_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Master_interrupt" value="used" /&gt;
+          &lt;/PWMMaster2&gt;
+          &lt;PWMSlave3&gt;
+            &lt;setting name="PWM_duty" value="50" /&gt;
+            &lt;setting name="OuputLevel" value="0" /&gt;
+            &lt;setting name="OuputValue" value="0" /&gt;
+            &lt;setting name="Slave_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Slave_interrupt" value="used" /&gt;
+            &lt;setting name="OuputTime" value="0" /&gt;
+            &lt;setting name="TauPWMSlave cbPSRSEL" value="false" /&gt;
+          &lt;/PWMSlave3&gt;
+          &lt;PWMSlave4&gt;
+            &lt;setting name="PWM_duty" value="50" /&gt;
+            &lt;setting name="OuputLevel" value="0" /&gt;
+            &lt;setting name="OuputValue" value="0" /&gt;
+            &lt;setting name="Slave_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Slave_interrupt" value="used" /&gt;
+            &lt;setting name="OuputTime" value="0" /&gt;
+            &lt;setting name="TauPWMSlave cbPSRSEL" value="false" /&gt;
+          &lt;/PWMSlave4&gt;
+          &lt;PWMSlave5&gt;
+            &lt;setting name="PWM_duty" value="50" /&gt;
+            &lt;setting name="OuputLevel" value="0" /&gt;
+            &lt;setting name="OuputValue" value="0" /&gt;
+            &lt;setting name="Slave_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Slave_interrupt" value="used" /&gt;
+            &lt;setting name="OuputTime" value="0" /&gt;
+            &lt;setting name="TauPWMSlave cbPSRSEL" value="false" /&gt;
+          &lt;/PWMSlave5&gt;
+          &lt;PWMSlave6&gt;
+            &lt;setting name="PWM_duty" value="50" /&gt;
+            &lt;setting name="OuputLevel" value="0" /&gt;
+            &lt;setting name="OuputValue" value="0" /&gt;
+            &lt;setting name="Slave_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Slave_interrupt" value="used" /&gt;
+            &lt;setting name="OuputTime" value="0" /&gt;
+            &lt;setting name="TauPWMSlave cbPSRSEL" value="false" /&gt;
+          &lt;/PWMSlave6&gt;
+          &lt;PWMSlave7&gt;
+            &lt;setting name="PWM_duty" value="50" /&gt;
+            &lt;setting name="OuputLevel" value="0" /&gt;
+            &lt;setting name="OuputValue" value="0" /&gt;
+            &lt;setting name="Slave_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Slave_interrupt" value="used" /&gt;
+            &lt;setting name="OuputTime" value="0" /&gt;
+            &lt;setting name="TauPWMSlave cbPSRSEL" value="false" /&gt;
+          &lt;/PWMSlave7&gt;
+        &lt;/TAUPWMMaster2&gt;
       &lt;/Channel2&gt;
       &lt;Channel3&gt;
-        &lt;setting name="ChannelFunction" value="0" /&gt;
+        &lt;setting name="ChannelFunction" value="8" /&gt;
         &lt;setting name="Pinselection" value="-1" /&gt;
       &lt;/Channel3&gt;
       &lt;Channel4&gt;
-        &lt;setting name="ChannelFunction" value="0" /&gt;
+        &lt;setting name="ChannelFunction" value="7" /&gt;
         &lt;setting name="Pinselection" value="-1" /&gt;
+        &lt;TAUPWMMaster4&gt;
+          &lt;PWMMaster4&gt;
+            &lt;setting name="Value_scale" value="1" /&gt;
+            &lt;setting name="PWM_cycle" value="12.87" /&gt;
+            &lt;setting name="Master_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Master_interrupt" value="used" /&gt;
+          &lt;/PWMMaster4&gt;
+          &lt;PWMSlave5&gt;
+            &lt;setting name="PWM_duty" value="50" /&gt;
+            &lt;setting name="OuputLevel" value="0" /&gt;
+            &lt;setting name="OuputValue" value="0" /&gt;
+            &lt;setting name="Slave_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Slave_interrupt" value="used" /&gt;
+            &lt;setting name="OuputTime" value="0" /&gt;
+            &lt;setting name="TauPWMSlave cbPSRSEL" value="false" /&gt;
+          &lt;/PWMSlave5&gt;
+          &lt;PWMSlave6&gt;
+            &lt;setting name="PWM_duty" value="50" /&gt;
+            &lt;setting name="OuputLevel" value="0" /&gt;
+            &lt;setting name="OuputValue" value="0" /&gt;
+            &lt;setting name="Slave_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Slave_interrupt" value="used" /&gt;
+            &lt;setting name="OuputTime" value="0" /&gt;
+            &lt;setting name="TauPWMSlave cbPSRSEL" value="false" /&gt;
+          &lt;/PWMSlave6&gt;
+          &lt;PWMSlave7&gt;
+            &lt;setting name="PWM_duty" value="50" /&gt;
+            &lt;setting name="OuputLevel" value="0" /&gt;
+            &lt;setting name="OuputValue" value="0" /&gt;
+            &lt;setting name="Slave_interrupt_priority" value="3" /&gt;
+            &lt;setting name="Slave_interrupt" value="used" /&gt;
+            &lt;setting name="OuputTime" value="0" /&gt;
+            &lt;setting name="TauPWMSlave cbPSRSEL" value="false" /&gt;
+          &lt;/PWMSlave7&gt;
+        &lt;/TAUPWMMaster4&gt;
       &lt;/Channel4&gt;
       &lt;Channel5&gt;
         &lt;setting name="ChannelFunction" value="0" /&gt;
         &lt;setting name="Pinselection" value="-1" /&gt;
       &lt;/Channel5&gt;
       &lt;Channel6&gt;
-        &lt;setting name="ChannelFunction" value="0" /&gt;
+        &lt;setting name="ChannelFunction" value="11" /&gt;
         &lt;setting name="Pinselection" value="-1" /&gt;
       &lt;/Channel6&gt;
       &lt;Channel7&gt;
@@ -6734,10 +6825,82 @@ C:\Program Files (x86)\Renesas Electronics\CS+\CC\FAA\V1.04.02
       &lt;/TMRJTimerMode0&gt;
     &lt;/TMRJ0&gt;
     &lt;TMRD0&gt;
-      &lt;setting name="Function" value="Unused" /&gt;
+      &lt;setting name="Function" value="PWM3Output" /&gt;
+      &lt;PWM3Output0&gt;
+        &lt;setting name="Count_source" value="InternalClock" /&gt;
+        &lt;setting name="Internal_Clock" value="fih" /&gt;
+        &lt;setting name="External_clock_edge" value="Rising" /&gt;
+        &lt;setting name="Counter_operation" value="0" /&gt;
+        &lt;setting name="TRDGRDRegisterFunction" value="0" /&gt;
+        &lt;setting name="TRDGRCRegisterFunction" value="0" /&gt;
+        &lt;setting name="PeriodUnit" value="1" /&gt;
+        &lt;setting name="Duty3" value="50" /&gt;
+        &lt;setting name="Duty2" value="50" /&gt;
+        &lt;setting name="Duty1" value="50" /&gt;
+        &lt;setting name="Period" value="12.674" /&gt;
+        &lt;setting name="Duty3_Inuse" value="use" /&gt;
+        &lt;setting name="Duty2_Inuse" value="not use" /&gt;
+        &lt;setting name="Duty1_Inuse" value="not use" /&gt;
+        &lt;setting name="InitOutputLevelD" value="0" /&gt;
+        &lt;setting name="OutputLevelD" value="0" /&gt;
+        &lt;setting name="InitOutputLevelC" value="0" /&gt;
+        &lt;setting name="OutputLevelC" value="0" /&gt;
+        &lt;setting name="InitOutputLevelB" value="0" /&gt;
+        &lt;setting name="OutputLevelB" value="0" /&gt;
+        &lt;setting name="INTP0_linked" value="not use" /&gt;
+        &lt;setting name="ELC_linked" value="not use" /&gt;
+        &lt;setting name="TRDIOB_Normal" value="0" /&gt;
+        &lt;setting name="TRDIOC_Normal" value="0" /&gt;
+        &lt;setting name="TRDIOD_Normal" value="0" /&gt;
+        &lt;setting name="INTTRDGRD" value="use" /&gt;
+        &lt;setting name="INTTRDGRC" value="use" /&gt;
+        &lt;setting name="INTTRDGRB" value="use" /&gt;
+        &lt;setting name="INTTRDGRA" value="use" /&gt;
+        &lt;setting name="INTOverFlow" value="use" /&gt;
+        &lt;setting name="INTPriority" value="3" /&gt;
+        &lt;setting name="OutputTimeD" value="0" /&gt;
+        &lt;setting name="OutputTimeC" value="0" /&gt;
+        &lt;setting name="OutputTimeB" value="0" /&gt;
+      &lt;/PWM3Output0&gt;
     &lt;/TMRD0&gt;
     &lt;TMRD1&gt;
-      &lt;setting name="Function" value="Unused" /&gt;
+      &lt;setting name="Function" value="PWM3Output" /&gt;
+      &lt;PWM3Output1&gt;
+        &lt;setting name="Count_source" value="InternalClock" /&gt;
+        &lt;setting name="Internal_Clock" value="fih" /&gt;
+        &lt;setting name="External_clock_edge" value="Rising" /&gt;
+        &lt;setting name="Counter_operation" value="0" /&gt;
+        &lt;setting name="TRDGRDRegisterFunction" value="0" /&gt;
+        &lt;setting name="TRDGRCRegisterFunction" value="0" /&gt;
+        &lt;setting name="PeriodUnit" value="1" /&gt;
+        &lt;setting name="Duty3" value="50" /&gt;
+        &lt;setting name="Duty2" value="50" /&gt;
+        &lt;setting name="Duty1" value="50" /&gt;
+        &lt;setting name="Period" value="8.333" /&gt;
+        &lt;setting name="Duty3_Inuse" value="not use" /&gt;
+        &lt;setting name="Duty2_Inuse" value="not use" /&gt;
+        &lt;setting name="Duty1_Inuse" value="use" /&gt;
+        &lt;setting name="InitOutputLevelD" value="0" /&gt;
+        &lt;setting name="OutputLevelD" value="0" /&gt;
+        &lt;setting name="InitOutputLevelC" value="0" /&gt;
+        &lt;setting name="OutputLevelC" value="0" /&gt;
+        &lt;setting name="InitOutputLevelB" value="0" /&gt;
+        &lt;setting name="OutputLevelB" value="0" /&gt;
+        &lt;setting name="INTP0_linked" value="not use" /&gt;
+        &lt;setting name="ELC_linked" value="not use" /&gt;
+        &lt;setting name="TRDIOB_Normal" value="0" /&gt;
+        &lt;setting name="TRDIOC_Normal" value="0" /&gt;
+        &lt;setting name="TRDIOD_Normal" value="0" /&gt;
+        &lt;setting name="INTTRDGRD" value="use" /&gt;
+        &lt;setting name="INTTRDGRC" value="use" /&gt;
+        &lt;setting name="INTTRDGRB" value="use" /&gt;
+        &lt;setting name="INTTRDGRA" value="use" /&gt;
+        &lt;setting name="INTOverFlow" value="use" /&gt;
+        &lt;setting name="INTPriority" value="3" /&gt;
+        &lt;setting name="OutputTimeD" value="0" /&gt;
+        &lt;setting name="OutputTimeC" value="0" /&gt;
+        &lt;setting name="OutputTimeB" value="0" /&gt;
+      &lt;/PWM3Output1&gt;
     &lt;/TMRD1&gt;
     &lt;LVD&gt;
       &lt;setting name="Operation" value="unused" /&gt;

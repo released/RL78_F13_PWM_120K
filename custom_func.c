@@ -371,7 +371,12 @@ void hardware_init(void)
     R_TMR_RJ0_Start();        		// TIMER  
     R_INTC0_Start();    			// BUTTON , P137
     
-    R_TAU0_Channel0_Start();        //P30/TO01 , PWM 120K(8.333us)@50%
+    R_TAU0_Channel0_Start();        //P30/TO01 , PWM 52.2K(19.157us)@50%
+    R_TAU0_Channel2_Start();        //P125/TO03 , PWM 53.4K(18.272us)@50%
+    R_TAU0_Channel4_Start();        //P14/TO06 , PWM 77.7K(12.87us)@50%
+    R_TMR_RD0_Start();              //P120/TRDIOD0 , PWM 78.9K(12.674us)@50%
+    R_TMR_RD1_Start();              //P17/TRDIOB1 , PWM 120K(8.333us)@50%
+
 
     // check_reset_source();
     printf_tiny("%s finish\r\n\r\n",__func__);

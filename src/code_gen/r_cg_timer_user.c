@@ -23,7 +23,7 @@
 * Device(s)    : R5F10BMG
 * Tool-Chain   : CCRL
 * Description  : This file implements device driver for TAU module.
-* Creation Date: 2025/6/25
+* Creation Date: 2025/7/1
 ***********************************************************************************************************************/
 
 /***********************************************************************************************************************
@@ -40,7 +40,13 @@ Pragma directive
 ***********************************************************************************************************************/
 #pragma interrupt r_tau0_channel0_interrupt(vect=INTTM00)
 #pragma interrupt r_tau0_channel1_interrupt(vect=INTTM01)
+#pragma interrupt r_tau0_channel2_interrupt(vect=INTTM02)
+#pragma interrupt r_tau0_channel3_interrupt(vect=INTTM03)
+#pragma interrupt r_tau0_channel4_interrupt(vect=INTTM04)
+#pragma interrupt r_tau0_channel6_interrupt(vect=INTTM06)
 #pragma interrupt r_tmr_rj0_interrupt(vect=INTTRJ0)
+#pragma interrupt r_tmr_rd0_interrupt(vect=INTTRD0)
+#pragma interrupt r_tmr_rd1_interrupt(vect=INTTRD1)
 /* Start user code for pragma. Do not edit comment generated here */
 /* End user code. Do not edit comment generated here */
 
@@ -75,6 +81,54 @@ static void __near r_tau0_channel1_interrupt(void)
 }
 
 /***********************************************************************************************************************
+* Function Name: r_tau0_channel2_interrupt
+* Description  : This function is INTTM02 interrupt service routine.
+* Arguments    : None
+* Return Value : None
+***********************************************************************************************************************/
+static void __near r_tau0_channel2_interrupt(void)
+{
+    /* Start user code. Do not edit comment generated here */
+    /* End user code. Do not edit comment generated here */
+}
+
+/***********************************************************************************************************************
+* Function Name: r_tau0_channel3_interrupt
+* Description  : This function is INTTM03 interrupt service routine.
+* Arguments    : None
+* Return Value : None
+***********************************************************************************************************************/
+static void __near r_tau0_channel3_interrupt(void)
+{
+    /* Start user code. Do not edit comment generated here */
+    /* End user code. Do not edit comment generated here */
+}
+
+/***********************************************************************************************************************
+* Function Name: r_tau0_channel4_interrupt
+* Description  : This function is INTTM04 interrupt service routine.
+* Arguments    : None
+* Return Value : None
+***********************************************************************************************************************/
+static void __near r_tau0_channel4_interrupt(void)
+{
+    /* Start user code. Do not edit comment generated here */
+    /* End user code. Do not edit comment generated here */
+}
+
+/***********************************************************************************************************************
+* Function Name: r_tau0_channel6_interrupt
+* Description  : This function is INTTM06 interrupt service routine.
+* Arguments    : None
+* Return Value : None
+***********************************************************************************************************************/
+static void __near r_tau0_channel6_interrupt(void)
+{
+    /* Start user code. Do not edit comment generated here */
+    /* End user code. Do not edit comment generated here */
+}
+
+/***********************************************************************************************************************
 * Function Name: r_tmr_rj0_interrupt
 * Description  : This function is INTTRJ0 interrupt service routine.
 * Arguments    : None
@@ -84,6 +138,30 @@ static void __near r_tmr_rj0_interrupt(void)
 {
     /* Start user code. Do not edit comment generated here */
     Timer_1ms_IRQ();
+    /* End user code. Do not edit comment generated here */
+}
+
+/***********************************************************************************************************************
+* Function Name: r_tmr_rd0_interrupt
+* Description  : This function is INTTRD0 interrupt service routine.
+* Arguments    : None
+* Return Value : None
+***********************************************************************************************************************/
+static void __near r_tmr_rd0_interrupt(void)
+{
+    /* Start user code. Do not edit comment generated here */
+    /* End user code. Do not edit comment generated here */
+}
+
+/***********************************************************************************************************************
+* Function Name: r_tmr_rd1_interrupt
+* Description  : This function is INTTRD1 interrupt service routine.
+* Arguments    : None
+* Return Value : None
+***********************************************************************************************************************/
+static void __near r_tmr_rd1_interrupt(void)
+{
+    /* Start user code. Do not edit comment generated here */
     /* End user code. Do not edit comment generated here */
 }
 

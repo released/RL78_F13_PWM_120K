@@ -23,7 +23,7 @@
 * Device(s)    : R5F10BMG
 * Tool-Chain   : CCRL
 * Description  : This file implements system initializing function.
-* Creation Date: 2025/6/25
+* Creation Date: 2025/7/1
 ***********************************************************************************************************************/
 
 /***********************************************************************************************************************
@@ -75,6 +75,8 @@ void R_Systeminit(void)
     R_TAU0_Create();
     R_INTC_Create();
     R_TMR_RJ0_Create();
+    R_TMR_RD0_Create();
+    R_TMR_RD1_Create();
 
     /* Set invalid memory access detection control */
     IAWCTL = 0x00U;
